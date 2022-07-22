@@ -1,4 +1,4 @@
-# Rent Your Space (garage/swimming pool/backyard)
+# Rent Your Space (driveway/swimming pool/backyard)
 
 ## Introduction
 Have you gone to a beach on weekends and struggled to get a parking spot or 
@@ -26,12 +26,16 @@ renters). The data can be accessed through the end points of the REST API.
 ## Approach
 * The front end will be a React app (client)
 * The backend will be a Express (Node.js) server.
-* Database: Postgres
+* Database: PostgreSQL
 
 ## Features
-User sign in, authentication, file uploads from client to server, booking calendar
-restricted page access, search features, payment through Venmo/Paypal Api, admin 
-dashbord.
+* User sign in, authentication
+* file uploads from client to server
+* booking calendar
+* restricted page access
+* search features based on filters
+* payment through Venmo/Paypal Api
+* admin dashbord.
 
 ## Hosting
 The app will be hosted on Heroku
