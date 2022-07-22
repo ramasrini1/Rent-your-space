@@ -13,9 +13,9 @@ property for using the driveway or backyard space.
 ## Users 
 There are 2 types of users for this app 1) property owners and 2) renters
 The property owners will provide information about their property that they 
-plan to rent through a form input. The property will then be listed on the page. 
+plan to rent through a form input. The property will then be listed on the app. 
 The renters can book the property based on the availability. The renter can then 
-make payments the owners for using the property. All the features will be provided
+make payments to the owners for using the property. All the features will be provided
 by the app. If the property is rented for using the driveway. The renter uploads an img of vehicle id so the owner can verify the correct renter is using the driveway.
 
 ## Data
@@ -24,9 +24,9 @@ renters). The data can be accessed through the end points of the REST API.
 
 
 ## Approach
-The front end will be a React app (client)
-The backend will be a Express (Node.js) server.
-Database: Postgres
+* The front end will be a React app (client)
+* The backend will be a Express (Node.js) server.
+* Database: Postgres
 
 ## Features
 User sign in, authentication, file uploads from client to server, booking calendar
