@@ -46,3 +46,5 @@ The app will be hosted on Heroku
 * Message board for communicating betweeen renters or owners
 * Use of Typescript instead of JavaScript
 
+## Schema for the DB
+https://docs.google.com/document/d/1TpySxFjMZNoi6P3eLA5IZusexQ5Ruj0LUNHSJKAKKUc/edit?usp=sharing
