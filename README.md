@@ -30,12 +30,12 @@ renters). The CRUD operations can be performed through the end points of the RES
 
 ## Features
 * User sign in, authentication
-* file uploads from client to server
-* booking calendar
-* restricted page access
-* search features based on filters
-* payment through Venmo/Paypal Api
-* admin dashbord.
+* File uploads from client to server
+* Booking calendar
+* Restricted page access
+* Search features based on filters
+* Payment through Venmo/Paypal Api
+* Admin dashbord.
 
 ## Hosting
 The app will be hosted on Heroku
