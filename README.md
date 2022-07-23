@@ -29,6 +29,7 @@ renters). The CRUD operations can be performed through the end points of the RES
 * Database: PostgreSQL
 
 ## Features
+* Property Listings
 * User sign in, authentication
 * File uploads from client to server
 * Booking calendar
@@ -47,4 +48,6 @@ The app will be hosted on Heroku
 * Use of Typescript instead of JavaScript
 
 ## Schema for the DB
+https://docs.google.com/document/d/1TpySxFjMZNoi6P3eLA5IZusexQ5Ruj0LUNHSJKAKKUc/edit?usp=sharing
+
 https://docs.google.com/document/d/1TpySxFjMZNoi6P3eLA5IZusexQ5Ruj0LUNHSJKAKKUc/edit?usp=sharing
